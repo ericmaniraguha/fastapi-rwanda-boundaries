@@ -1,0 +1,6 @@
+geopandas
+fastapi
+uvicorn
+shapely
+flask-cors
+geopandas folium
